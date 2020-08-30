@@ -1,0 +1,13 @@
+.display {
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+}
+.diplay-1 {
+    height: 291px;
+    width: 400px;
+    margin-top: 10px;
+    border: 1px solid #00B4CC !important;
+    background: white;
+    border-radius: 5px;
+}
